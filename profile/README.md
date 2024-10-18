@@ -5,8 +5,7 @@
 <h4>MEMBER :</h4>
 
 - 🤖|🧠 The Boys
-  - F1D021000 – Rifki Rusdi Satma Putra
-  - F1D021001 - Ali An Nuur
+  - F1D021001 - Ali An Nuur 
   - F1D021131 - R. Muhammad Gerald Dennaya HD
   - F1D021094 - I Gede Darmawan Adi Pratama Putra
   - F1D021000 - Ramadhami Al-Qadar
